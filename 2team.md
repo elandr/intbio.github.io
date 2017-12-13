@@ -25,5 +25,11 @@ permalink: /team/
 [Curriculum Vitae]({{ "/team/gaa_cv" | relative_url }}) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Armeev+GA%5BAuthor%5D) | E-mail: [armeev@intbio.org](mailto:armeev@intbio.org) 
 </td>
 </tr>
+<tr>
+<td markdown="span"> <img src="{{ "/assets/photo_eaa.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Elizaveta A. Andreeva - B.S. student</b> <br> Elizaveta is currently pursuing B.S. studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/team/gaa_cv" | relative_url }}) | E-mail: [andreeva.elizaveta.2015@post.bio.msu.ru](mailto:andreeva.elizaveta.2015@post.bio.msu.ru) 
+</td>
+</tr>
 </tbody>
 </table>
